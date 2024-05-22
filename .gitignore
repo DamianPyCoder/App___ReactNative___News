@@ -1,0 +1,169 @@
+############################
+# OS X
+############################
+
+strapi_rest/.DS_Store
+strapi_rest/.AppleDouble
+strapi_rest/.LSOverride
+strapi_rest/Icon
+strapi_rest/.Spotlight-V100
+strapi_rest/.Trashes
+strapi_rest/._*
+
+
+############################
+# Linux
+############################
+
+strapi_rest/*~
+
+
+############################
+# Windows
+############################
+
+strapi_rest/Thumbs.db
+strapi_rest/ehthumbs.db
+strapi_rest/Desktop.ini
+strapi_rest/$RECYCLE.BIN/
+strapi_rest/*.cab
+strapi_rest/*.msi
+strapi_rest/*.msm
+strapi_rest/*.msp
+
+
+############################
+# Packages
+############################
+
+strapi_rest/*.7z
+strapi_rest/*.csv
+strapi_rest/*.dat
+strapi_rest/*.dmg
+strapi_rest/*.gz
+strapi_rest/*.iso
+strapi_rest/*.jar
+strapi_rest/*.rar
+strapi_rest/*.tar
+strapi_rest/*.zip
+strapi_rest/*.com
+strapi_rest/*.class
+strapi_rest/*.dll
+strapi_rest/*.exe
+strapi_rest/*.o
+strapi_rest/*.seed
+strapi_rest/*.so
+strapi_rest/*.swo
+strapi_rest/*.swp
+strapi_rest/*.swn
+strapi_rest/*.swm
+strapi_rest/*.out
+strapi_rest/*.pid
+
+
+############################
+# Logs and databases
+############################
+
+strapi_rest/.tmp
+strapi_rest/*.log
+strapi_rest/*.sql
+strapi_rest/*.sqlite
+strapi_rest/*.sqlite3
+
+
+############################
+# Misc.
+############################
+
+*#
+ssl
+.idea
+nbproject
+public/uploads/*
+!public/uploads/.gitkeep
+
+############################
+# Node.js
+############################
+
+strapi_rest/lib-cov
+strapi_rest/lcov.info
+strapi_rest/pids
+strapi_rest/logs
+strapi_rest/results
+strapi_rest/node_modules
+strapi_rest/.node_history
+
+
+############################
+# Tests
+############################
+
+strapi_rest/testApp
+strapi_rest/coverage
+
+############################
+# Strapi
+############################
+
+strapi_rest/exports
+strapi_rest/.cache
+strapi_rest/build
+
+
+# Xcode
+#
+news/build/
+news/*.pbxuser
+news/!default.pbxuser
+news/*.mode1v3
+news/!default.mode1v3
+news/*.mode2v3
+news/!default.mode2v3
+news/*.perspectivev3
+news/!default.perspectivev3
+news/xcuserdata
+news/*.xccheckout
+news/*.moved-aside
+news/DerivedData
+news/*.hmap
+news/*.ipa
+news/*.xcuserstate
+
+# Android/IntelliJ
+#
+news/build/
+news/.idea
+news/.gradle
+news/local.properties
+news/*.iml
+
+# node.js
+#
+news/node_modules/
+news/npm-debug.log
+news/yarn-error.log
+
+# BUCK
+news/buck-out/
+news/\.buckd/
+news/*.keystore
+news/!debug.keystore
+
+# fastlane
+#
+# It is recommended to not store the screenshots in the git repo. Instead, use fastlane to re-generate the
+# screenshots whenever they are needed.
+# For more information about the recommended setup visit:
+# https://docs.fastlane.tools/best-practices/source-control/
+
+news/*/fastlane/report.xml
+news/*/fastlane/Preview.html
+news/*/fastlane/screenshots
+
+# Bundle artifact
+news/*.jsbundle
+
+# CocoaPods
+news/ios/Pods/
